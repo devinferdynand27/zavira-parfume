@@ -58,43 +58,12 @@
     </section>
 
     <!-- PRODUCT COLLECTION -->
-    <section id="koleksi" style="padding: 100px 5%; background-color: #ffffff;">
+    <section id="koleksi" style="padding: 100px 5%; background-color: #ffffff; margin-top: -180px;">
         <h2 style="text-align: center; font-size: 32px; letter-spacing: 4px; color: #04252b; margin-bottom: 60px; text-transform: uppercase;">KOLEKSI UNGGULAN</h2>
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 40px;">
-            
-            <!-- Produk 1 -->
-            <div style="border: 1px solid #f0f0f0; transition: 0.3s; text-align: center; padding-bottom: 25px; background: #fff;">
-                <div style="height: 320px; background: #f9f9f9; margin-bottom: 25px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-                    <!-- Gambar placeholder, ganti dengan gambar produk asli -->
-                    <img src="zavira_produk.png" alt="Golden Oud" style="max-width: 80%; max-height: 80%; object-fit: contain;">                </div>
-                <h4 style="margin: 0; font-size: 19px; color: #04252b; letter-spacing: 1px;">Midnight Blue</h4>
-                <p style="color: #888; font-size: 14px; margin: 8px 0 20px; font-style: italic;">Deep, Woody, & Sophisticated</p>
-                <div style="font-size: 18px; font-weight: bold; color: #04252b; margin-bottom: 20px;">Rp 50.000</div>
-                <a href="#" style="text-decoration: none; padding: 10px 25px; background: #04252b; color: white; border-radius: 4px; font-size: 13px;">Detail Produk</a>
-            </div>
-
-            <!-- Produk 2 -->
-            <div style="border: 1px solid #f0f0f0; transition: 0.3s; text-align: center; padding-bottom: 25px; background: #fff;">
-                <div style="height: 320px; background: #f9f9f9; margin-bottom: 25px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-                    <img src="zavira_produk.png" alt="Rose Garden" style="max-width: 80%; max-height: 80%; object-fit: contain;">
-                </div>
-                <h4 style="margin: 0; font-size: 19px; color: #04252b; letter-spacing: 1px;">Rose Garden</h4>
-                <p style="color: #888; font-size: 14px; margin: 8px 0 20px; font-style: italic;">Fresh, Floral, & Feminine</p>
-                <div style="font-size: 18px; font-weight: bold; color: #04252b; margin-bottom: 20px;">Rp 50.000</div>
-                <a href="#" style="text-decoration: none; padding: 10px 25px; background: #04252b; color: white; border-radius: 4px; font-size: 13px;">Detail Produk</a>
-            </div>
-
-            <!-- Produk 3 -->
-            <div style="border: 1px solid #f0f0f0; transition: 0.3s; text-align: center; padding-bottom: 25px; background: #fff;">
-                <div style="height: 320px; background: #f9f9f9; margin-bottom: 25px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-                    <img src="zavira_produk.png" alt="Golden Oud" style="max-width: 80%; max-height: 80%; object-fit: contain;">
-                </div>
-                <h4 style="margin: 0; font-size: 19px; color: #04252b; letter-spacing: 1px;">Golden Oud</h4>
-                <p style="color: #888; font-size: 14px; margin: 8px 0 20px; font-style: italic;">Rich, Exotic, & Warm</p>
-                <div style="font-size: 18px; font-weight: bold; color: #04252b; margin-bottom: 20px;">Rp 50.000</div>
-                <a href="#" style="text-decoration: none; padding: 10px 25px; background: #04252b; color: white; border-radius: 4px; font-size: 13px;">Detail Produk</a>
-            </div>
-
+        
+        <!-- Container untuk menampung hasil looping -->
+        <div id="product-container" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 40px;">
+            <!-- Data akan dimasukkan oleh JavaScript -->
         </div>
     </section>
 
@@ -138,3 +107,4 @@
 
 </body>
 </html>
+<script src="config/data_json.js"></script>
