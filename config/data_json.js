@@ -2,7 +2,7 @@ var datajson =
     [
         {
             "nama_produk": "Romantic Wish",
-            "harga": 40000,
+            "harga": 55000,
             "descripsi": `Manis : Memberikan sentuhan aroma yang memikat dan menyenangkan sejak semprotan pertama.
                     Bunga : Dominasi aroma floral yang segar memberikan kesan natural seperti sedang berada di taman bunga..
                     Feminin : Mempertegas aura keanggunan dan kelembutan bagi penggunanya`,
@@ -14,7 +14,7 @@ var datajson =
         },
         {
             "nama_produk": "9PM REBORN NANAS",
-            "harga": 40000,
+            "harga": 55000,
             "descripsi": `Segar: Memberikan sensasi kesegaran yang instan dan membangkitkan semangat.
                           Tropis: Aroma buah nanas yang dominan membawa nuansa liburan di daerah tropis yang cerah.
                           Berani: Memiliki karakter aroma yang kuat dan tegas, cocok untuk mereka yang ingin tampil percaya diri dan menjadi pusat perhatian.`,
@@ -24,7 +24,7 @@ var datajson =
         },
         {
             "nama_produk": "Lovely",
-            "harga": 40000,
+            "harga": 55000,
             "descripsi": `Profil Aroma: Memiliki karakteristik aroma yang Lembut, Bedak, dan Elegan.
             Kesan & Karakter: Wanginya memberikan nuansa ketenangan yang bersih, sangat cocok untuk penggunaan sehari-hari yang membutuhkan kesan profesional namun tetap ramah.
             Kategori Pengguna: Dengan profil aroma bedak yang lembut, parfum ini sangat cocok bagi perempuan (cewe) yang ingin menonjolkan sisi keanggunan yang bersahaja.`,
@@ -34,7 +34,7 @@ var datajson =
         },
         {
             "nama_produk": "Monaco Royale Melon",
-            "harga": 40000,
+            "harga": 55000,
             "descripsi": `Segar: Memberikan efek uplifting yang langsung terasa saat digunakan.
             Melon: Memiliki aroma buah melon yang manis, juicy, dan khas.
             Berenergi: Dirancang untuk mendukung gaya hidup aktif dan memberikan kesan semangat sepanjang hari.`,
@@ -44,7 +44,7 @@ var datajson =
         },
         {
             "nama_produk": "Black Opium",
-            "harga": 40000,
+            "harga": 55000,
             "descripsi": `Profil Aroma: Terdiri dari perpaduan aroma Kopi, Vanilla, dan memiliki kesan Misterius.
             Kesan & Karakter: Perpaduan kopi yang pahit-manis dengan kehangatan vanilla menciptakan aura yang menggoda dan berkelas. Sangat ideal untuk acara malam hari atau pertemuan formal.
             Kategori Pengguna: Melihat profil aromanya yang intens, parfum ini dikategorikan sebagai parfum perempuan (cewe), namun karena karakter kopinya yang kuat, banyak juga pria yang menyukai aroma ini sebagai pilihan yang lebih berani.`,
@@ -54,7 +54,7 @@ var datajson =
         },
         {
             "nama_produk": "Dunhill Blue",
-            "harga": 40000,
+            "harga": 55000,
             "descripsi": `Profil Aroma: Memiliki karakteristik aroma yang Segar, Akuatik, dan Bersih.
             Kesan & Karakter: Wanginya memberikan sensasi seperti udara laut yang dingin, memberikan kesan maskulin yang profesional dan sporty.
             Kategori Pengguna: Berdasarkan profil aromanya yang bersih dan akuatik, parfum ini sangat cocok bagi laki-laki (cowo) untuk aktivitas di kantor maupun olahraga.`,
@@ -64,7 +64,7 @@ var datajson =
         },
         {
             "nama_produk": "Taylor Swift",
-            "harga": 40000,
+            "harga": 55000,
             "descripsi": `Profil Aroma: Terdiri dari perpaduan aroma yang Manis, Beri, dan Menawan.
             Kesan & Karakter: Perpaduan buah beri yang manis menciptakan kesan yang playful, segar, dan penuh percaya diri.
             Kategori Pengguna: Dengan karakter wangi buah yang manis dan menawan, varian ini ditujukan untuk perempuan (cewe).`,
@@ -74,7 +74,7 @@ var datajson =
         },
         {
             "nama_produk": "Bvlgari Aqua",
-            "harga": 40000,
+            "harga": 55000,
             "descripsi": `Profil Aroma: Memiliki profil aroma yang Segar, Laut, dan Murni.
             Kesan & Karakter: Menghadirkan aroma laut yang sangat alami dan tidak menyengat, memberikan kesan yang santai namun tetap mewah.
             Kategori Pengguna: Melihat profilnya yang segar dan murni, parfum ini dikategorikan sebagai parfum Unisex yang sangat populer, terutama untuk digunakan pada cuaca panas.`,
@@ -84,7 +84,7 @@ var datajson =
         },
         {
             "nama_produk": "Dior Sauvage",
-            "harga": 40000,
+            "harga": 55000,
             "descripsi": `Profil Aroma: Memiliki karakteristik aroma yang Ikonik, Jantan, dan Intens.
             Kesan & Karakter: Wanginya memberikan aura ketegasan dan kemewahan yang modern. Aromanya yang intens sangat efektif untuk meningkatkan rasa percaya diri dan memberikan kesan yang tidak terlupakan.
             Kategori Pengguna: Dengan profil aroma yang spesifik "Jantan", parfum ini sangat cocok bagi laki-laki (cowo) untuk penggunaan di acara formal maupun pertemuan bisnis penting.`,
@@ -94,7 +94,7 @@ var datajson =
         },
         // {
         //     "nama_produk": "",
-        //     "harga": 40000,
+        //     "harga": 55000,
         //     "descripsi": ``,
         //     "url_gambar": "9pm_nanas.png",
         //     "tipe": "Eau de Parfum",
