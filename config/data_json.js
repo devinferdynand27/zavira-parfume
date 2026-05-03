@@ -2,7 +2,7 @@ var datajson =
     [
         {
             "nama_produk": "Romantic Wish",
-            "harga": 55000,
+            "harga": 80000,
             "descripsi": `Manis : Memberikan sentuhan aroma yang memikat dan menyenangkan sejak semprotan pertama.
                     Bunga : Dominasi aroma floral yang segar memberikan kesan natural seperti sedang berada di taman bunga..
                     Feminin : Mempertegas aura keanggunan dan kelembutan bagi penggunanya`,
@@ -14,7 +14,7 @@ var datajson =
         },
         {
             "nama_produk": "9PM REBORN NANAS",
-            "harga": 55000,
+            "harga": 80000,
             "descripsi": `Segar: Memberikan sensasi kesegaran yang instan dan membangkitkan semangat.
                           Tropis: Aroma buah nanas yang dominan membawa nuansa liburan di daerah tropis yang cerah.
                           Berani: Memiliki karakter aroma yang kuat dan tegas, cocok untuk mereka yang ingin tampil percaya diri dan menjadi pusat perhatian.`,
@@ -34,7 +34,7 @@ var datajson =
         },
         {
             "nama_produk": "Monaco Royale Melon",
-            "harga": 55000,
+            "harga": 80000,
             "descripsi": `Segar: Memberikan efek uplifting yang langsung terasa saat digunakan.
             Melon: Memiliki aroma buah melon yang manis, juicy, dan khas.
             Berenergi: Dirancang untuk mendukung gaya hidup aktif dan memberikan kesan semangat sepanjang hari.`,
